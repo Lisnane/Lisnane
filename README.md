@@ -3,7 +3,7 @@
 ## Sobre Mim
 
 Olá! Sou @Lisnane, uma engenheira civil em transição de carreira para a área de dados.
-:octolis: 
+
 👩‍💼 **Formação e Experiência Profissional:** Sou formada em Engenharia Civil pela Universidade de Vassouras e tenho 24 anos de idade. Já integrei a equipe da Secretaria de Obras da Prefeitura de Vassouras, onde elaborei planilhas orçamentárias e projetos, contribuindo para o avanço das atividades do departamento. Além disso, acumulo mais de 5 anos de experiência em rotinas administrativas nos setores de saúde e educação da mesma universidade, onde desenvolvi habilidades em atendimento ao cliente e na elaboração de planilhas de controle.
 
 🌱 **Aprendizado Atual:** Estou atualmente em um processo de aprendizado contínuo, explorando a área de dados e buscando aplicar minha sólida base em engenharia e administração em novas oportunidades e desafios.
