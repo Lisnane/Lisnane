@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://github.com/Lisnane/Lisnane/blob/main/octocat-1715091097115.png"  width="100"/>
+</p>
 
 ## Sobre Mim
 
